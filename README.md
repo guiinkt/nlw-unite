@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O pass.in foi desenvolvido durante a 15° NLW na Rocketseat. Se trata de uma página web para usuários realizarem check-in em um evento, tudo através de nome e email. Projeto possui integração com library "Day.js" para formatar visualização de datas com JS.
+O pass.in foi desenvolvido durante a 15° NLW na Rocketseat. Se trata de uma página web para o responsável do evento gerenciar usuários cadastrados e check-ins futuros, tudo através de nome e email. Projeto possui integração com library "Day.js" para formatar visualização de datas com JS.
 
 ## 🔖 Layout
 
